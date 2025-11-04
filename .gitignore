@@ -1,0 +1,21 @@
+# User settings
+xcuserdata/
+*.xcuserstate
+
+# Build
+DerivedData/
+build/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.swiftpm/
+*.xcworkspace/xcshareddata/swiftpm/
+
+# CocoaPods
+Pods/
+*.xcworkspace
+
+# macOS
+.DS_Store
