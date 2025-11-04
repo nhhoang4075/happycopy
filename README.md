@@ -39,8 +39,7 @@ A lightweight, native macOS clipboard manager that lives in your menu bar. Happy
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd HappyCopy
+git clone https://github.com/nhhoang4075/happycopy.git
 ```
 
 2. Open the project in Xcode
